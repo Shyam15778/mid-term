@@ -1,0 +1,93 @@
+/*Shyamal Kakadia Student ID:8940119*/
+body
+{
+    width:100%;
+    max-width:1200px;
+    margin:auto;
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+}
+
+.structural
+{
+    margin: 10px;
+    padding:10px;
+}
+
+h1
+{
+    color: red;
+    font-size: 2em;
+}
+
+h2
+{
+    color: blue;
+    font-size: 1em;
+}
+
+main
+{
+    height:70vh;
+}
+
+img
+{
+    border:2px solid black;
+    width:90%;
+    height:80%;
+}
+
+
+#picture1
+{
+    background-color: green;
+    height:60%;
+    width: 45%;
+    margin: auto;
+    padding: 10px;
+    float: right;
+}
+
+#picture2
+{
+    background-color: green;
+    height:60%;
+    width: 45%;
+    margin: auto;
+    padding: 10px;
+    float: left;
+}
+
+figcaption
+{
+    font-weight: lighter;
+    font-size: medium;
+    color: black;
+    padding: 5px;
+}
+
+
+section
+{
+    clear:both;
+}
+
+ul > li > a {
+    text-decoration: none;
+    color: #0099cc;
+    line-height: 1.5em;
+}
+
+ul > li > a:hover {
+    color: #ff6600;
+}
+
+ul li {
+    list-style-type: square;
+    line-height: 1.5;
+}
+
+header, footer
+{
+    background-color:chartreuse;
+}
